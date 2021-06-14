@@ -1,0 +1,7 @@
+.idea
+notebooks/demo_data/**/*
+notebooks/demo_movies/**/*
+notebooks/minian_intermediate/**/*
+notebooks/dask-worker-space/**/*
+notebooks/img/**/*
+notebooks/.ipynb_checkpoints/**/*
