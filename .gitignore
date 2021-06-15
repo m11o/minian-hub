@@ -5,3 +5,4 @@ notebooks/minian_intermediate/**/*
 notebooks/dask-worker-space/**/*
 notebooks/img/**/*
 notebooks/.ipynb_checkpoints/**/*
+notebooks/miniscope_test/**/*
